@@ -1,0 +1,5 @@
+# Every executable
+*.out
+
+# IDE settings
+.vscode/
